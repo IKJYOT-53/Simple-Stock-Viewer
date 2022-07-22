@@ -1,0 +1,1 @@
+web: streamlit run stock-app.py --server.port $PORT --server.headless true
