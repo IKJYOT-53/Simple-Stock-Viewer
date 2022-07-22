@@ -1,0 +1,9 @@
+{
+    "name": "Streamlit Stock Viewer",
+    "description": "A barebones Streamlit App deployed to Heroku",
+    "repository": "https://github.com/IKJYOT-53/Simple-Stock-Viewer",
+    "keywords": [
+        "streamlit",
+        "python"
+    ]
+}
